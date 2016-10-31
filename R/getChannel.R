@@ -28,7 +28,6 @@
 #' @description Function that can fetch all Youtube channel's information .
 #' @return Information about Youtube channel
 #' @examples  \dontrun{
-#' My_api_key<-"AIzaSyCudPERm98VkhkZUkS71QIkqycWVeZeltM"
 #' BBJkaly<-"UCspYHrPHi-FhJZX9QXGJ-2g"
 #' info_channel<-getChannel(chid= BBJkaly,api_key = My_api_key)
 #' }
