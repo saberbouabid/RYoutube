@@ -16,4 +16,4 @@ First, you need to install devtools package. then run the following command
 
 ## [](#header-2) How can you help ?
 
-I need testers for this package. Please if you can test it and send me your feedback or commits your edits I will be thankful. 
+I need testers for this package. SO if you can test it and send me your feedback or commits your edits I will be thankful. 
