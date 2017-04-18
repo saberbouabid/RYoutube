@@ -11,9 +11,7 @@ This project is Beta version of R package used to connect easily to YouTube usin
 
 First, you need to install devtools package. then run the following command
 
-``
-devtools::install_github("saberbouabid/ryoutube")
-
+``devtools::install_github("saberbouabid/ryoutube")
 ``
 
 ## [](#header-2) How can you help ?
