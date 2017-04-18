@@ -15,3 +15,7 @@ First, you need to install devtools package. then run the following command
 devtools::install_github("saberbouabid/ryoutube")
 
 ``
+
+## [](#header-2) How can you help ?
+
+I need testers for this package. Please if you can test it and send me your feedback or commits your edits I will be thankful. 
